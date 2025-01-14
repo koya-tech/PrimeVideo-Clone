@@ -26,6 +26,8 @@ The PrimeVideo Clone Web App is a replica of a streaming platform built with Rea
 
 ## 🎥 Screenshots
 
+[Demo Video](https://drive.google.com/file/d/1Xv9W2iUp4okPogeIYFTIbzcR79qiO-a6/view?usp=sharing)
+
 1. **Homepage**  
    ![Homepage](/frontend/public/prime-clone-1.png)
 
